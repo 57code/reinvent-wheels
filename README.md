@@ -34,5 +34,8 @@
 - 斐波那契算法
 - 去重
 
-文章链接：[https://juejin.im/post/6884138429181870093](https://juejin.im/post/6884138429181870093)
-视频连接：[https://juejin.im/post/6884138429181870093](https://www.bilibili.com/video/BV13v411C7VC)
+## 文章链接
+[https://juejin.im/post/6884138429181870093](https://juejin.im/post/6884138429181870093)
+
+## 视频链接
+[https://juejin.im/post/6884138429181870093](https://www.bilibili.com/video/BV13v411C7VC)
