@@ -1,4 +1,4 @@
-const {compose} = require('./07-compose')
+const {compose} = require('./08-compose-redux')
 
 describe("koa中间件实现", () => {
   it("同步实现", async () => {
