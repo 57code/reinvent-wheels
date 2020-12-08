@@ -38,4 +38,4 @@
 [https://juejin.im/post/6884138429181870093](https://juejin.im/post/6884138429181870093)
 
 ## 视频链接
-[https://juejin.im/post/6884138429181870093](https://www.bilibili.com/video/BV13v411C7VC)
+[https://www.bilibili.com/video/BV13v411C7VC](https://www.bilibili.com/video/BV13v411C7VC)
